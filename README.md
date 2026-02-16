@@ -4,6 +4,8 @@
 
 Deploy your own call processing infrastructure using pre-built Docker images. Process phone calls in stereo WAV format with speaker diarization (agent/customer separation).
 
+![Dashboard Screenshot](images/dashboard.png)
+
 ---
 
 ## Features
